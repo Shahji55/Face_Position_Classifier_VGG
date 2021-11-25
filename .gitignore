@@ -1,0 +1,14 @@
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.gif
+*.pkl
+*.npy
+*.txt
+*.zip
+*.tar
+__pycache__
